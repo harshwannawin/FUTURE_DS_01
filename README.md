@@ -18,9 +18,6 @@ VS Code/Jupyter Notebooks and Python (Pandas, Matplotlib, Seaborn) are among the
 
 
 
-
-
-
 Task 2
 
 Future Interns | Data Science & Analytics Task 2: Solving the "Leak" in Subscription Retention The Big Picture I recently spent some time digging into the Telco Customer Churn dataset to figure out why subscribers were hitting the "cancel" button. After analyzing over 7,000 customer records, I found that we’re looking at a 26.5% churn rate. It’s not just a number—it’s a clear sign that certain segments of the user base are struggling to find long-term value in the service.
